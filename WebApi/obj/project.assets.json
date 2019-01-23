@@ -12114,11 +12114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ww\\item\\core\\git\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\ww\\item\\core\\git\\vuecore\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\ww\\item\\core\\git\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\ww\\item\\core\\git\\vuecore\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\15268\\.nuget\\packages\\",
-      "outputPath": "D:\\ww\\item\\core\\git\\WebApi\\obj\\",
+      "outputPath": "D:\\ww\\item\\core\\git\\vuecore\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
